@@ -1,0 +1,1 @@
+"""Tests cases for seven eleven package."""
